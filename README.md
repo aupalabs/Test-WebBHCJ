@@ -14,6 +14,9 @@ La pagina web debe contener:
 * footer con recomendaciones de libros/autores
 * pagina de contacto con formulario (nombre, email y mensaje) para simulacion de envio de correo. (no es necesario enviar email)
 * seccion de redes sociales
+* registro de usuarios
+* gestion de usuarios (listado, edicion, borrado logico)
+* inicio de sesion
 
 
 No requerido pero deseable
@@ -23,4 +26,5 @@ No requerido pero deseable
 * Request Async (ajax, fetch)
 * Ajax
 * PHP 
+* JWT
 * POO
